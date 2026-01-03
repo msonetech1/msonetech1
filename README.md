@@ -1,83 +1,75 @@
 # Hi 👋, I'm Samson P. Mwang'onda
 
-### A Passionate MERN Stack Developer
+### MERN Stack Developer | Open Source Enthusiast
 
-I build fast, reliable, and user-friendly web applications using the MERN stack (MongoDB, Express, React, Node). I enjoy turning ideas into working products — from planning and prototyping to deployment and monitoring. My focus is on clean architecture, readable code, and great developer experience.
+I’m a full-stack JavaScript developer who enjoys building, breaking, and improving web applications using the MERN stack. I like working in public, sharing what I learn, and collaborating with other developers to build useful tools.
 
----
-
-## What I Do
-
-- 🔭 I’m currently working on different projects that explore full-stack patterns and performance optimizations.
-- 🌱 I’m learning and building with **Next.js** to deliver faster, SEO-friendly React apps.
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB** — I love pairing on frontend architecture or backend API design.
+I care about **clean code, good documentation, and meaningful contributions**.
 
 ---
 
-## Developer Philosophy
+## 🌍 Open Source Mindset
 
-I believe in:
-
-- Simplicity: Solve the right problem with the simplest reliable solution.
-- Testability: Small, testable units that make refactoring safe.
-- UX-first thinking: Good UX is part of code quality.
-- Continuous learning: Ship, reflect, and iterate.
+- I enjoy collaborating through pull requests and code reviews  
+- I value readable code and clear commit history  
+- I believe documentation is part of the product  
+- I learn best by building and sharing
 
 ---
 
-## Highlights & Skills
+## 🔧 What I Work With
 
-- Languages: JavaScript (ES6+), HTML5, CSS3
-- Frameworks: React, Next.js, Express
-- Databases: MongoDB, MySQL
-- Tooling: Git, Node.js, npm/Yarn, Heroku
+**Frontend**
+- React, Next.js
+- HTML5, CSS3, Bootstrap
+
+**Backend**
+- Node.js, Express.js
+- RESTful APIs
+
+**Databases**
+- MongoDB, MySQL
+
+**Tools**
+- Git & GitHub
+- npm / Yarn
+- Heroku
 
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
 ---
 
-## Featured Projects
+## 🧩 How I Contribute
 
-- Project A — A brief one-line description (add a repo link here).
-- Project B — A one-line description about what it solves.
-
-(Replace the placeholders above with links to your repositories when ready.)
-
----
-
-## How to Work With Me
-
-- Want to collaborate? Open an issue or reach me at samsonmwangonda205@gmail.com.
-- Looking to hire? Send a short note explaining the project and goals.
+- Fixing bugs and improving existing features
+- Writing or improving documentation
+- Refactoring for clarity and maintainability
+- Helping beginners understand codebases
 
 ---
 
-Thank you for visiting my profile! I’m always open to feedback and new ideas.
+## 📂 Projects & Experiments
+
+- **Project A** – A MERN-based experiment focused on learning best practices  
+- **Project B** – Express API project with clean routing and controllers  
+
+*(I actively improve and refactor my repositories as I learn.)*
+
+---
+
+## 🤝 Let’s Collaborate
+
+- Open an issue or submit a PR  
+- Share ideas or feedback  
+- Reach me at **samsonmwangonda205@gmail.com**
+
+---
+
+Thanks for stopping by!  
+I’m always open to learning, collaboration, and constructive feedback.
