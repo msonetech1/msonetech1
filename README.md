@@ -2,15 +2,36 @@
 
 ### A Passionate MERN Stack Developer
 
-- 🔭 I’m currently working on **different projects**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
-- 📫 How to reach me: **samsonmwangonda205@gmail.com**
+I build fast, reliable, and user-friendly web applications using the MERN stack (MongoDB, Express, React, Node). I enjoy turning ideas into working products — from planning and prototyping to deployment and monitoring. My focus is on clean architecture, readable code, and great developer experience.
 
-### Connect with me:
-<!-- Add your social links here (LinkedIn, Twitter, GitHub) -->
+---
 
-### Languages and Tools:
+## What I Do
+
+- 🔭 I’m currently working on different projects that explore full-stack patterns and performance optimizations.
+- 🌱 I’m learning and building with **Next.js** to deliver faster, SEO-friendly React apps.
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB** — I love pairing on frontend architecture or backend API design.
+
+---
+
+## Developer Philosophy
+
+I believe in:
+
+- Simplicity: Solve the right problem with the simplest reliable solution.
+- Testability: Small, testable units that make refactoring safe.
+- UX-first thinking: Good UX is part of code quality.
+- Continuous learning: Ship, reflect, and iterate.
+
+---
+
+## Highlights & Skills
+
+- Languages: JavaScript (ES6+), HTML5, CSS3
+- Frameworks: React, Next.js, Express
+- Databases: MongoDB, MySQL
+- Tooling: Git, Node.js, npm/Yarn, Heroku
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -40,3 +61,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## Featured Projects
+
+- Project A — A brief one-line description (add a repo link here).
+- Project B — A one-line description about what it solves.
+
+(Replace the placeholders above with links to your repositories when ready.)
+
+---
+
+## How to Work With Me
+
+- Want to collaborate? Open an issue or reach me at samsonmwangonda205@gmail.com.
+- Looking to hire? Send a short note explaining the project and goals.
+
+---
+
+Thank you for visiting my profile! I’m always open to feedback and new ideas.
