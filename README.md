@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Samson P. Mwang'onda!
+# Hi there, I'm Samson P. Mwang'onda
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;Open+Source+Enthusiast;Building+Amazing+Web+Apps" alt="Typing SVG" />
@@ -12,20 +12,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania** 🇹🇿, who loves building, breaking, and improving web applications. I believe in **clean code**, **good documentation**, and **meaningful contributions** to the developer community.
+I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania**, who loves building, breaking, and improving web applications. I believe in **clean code**, **good documentation**, and **meaningful contributions** to the developer community.
 
-- 🔭 Currently working on full-stack JavaScript projects
-- 🌱 Always learning and experimenting with new technologies
-- 👯 Open to collaborating on interesting open-source projects
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 Reach me at: **samsonmwangonda205@gmail.com**
-- ⚡ Fun fact: I learn best by building and sharing with the community!
+- Currently working on full-stack JavaScript projects
+- Always learning and experimenting with new technologies
+- Open to collaborating on interesting open-source projects
+- Ask me about **React, Node.js, Express, MongoDB**
+- Reach me at: **samsonmwangonda205@gmail.com**
+- Fun fact: I learn best by building and sharing with the community
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 <div align="center">
@@ -63,7 +63,7 @@ I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania** 🇹�
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msonetech1&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&text_color=F8F8F2" alt="GitHub Stats" height="170"/>
@@ -76,7 +76,7 @@ I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania** 🇹�
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msonetech1&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&color=61DAFB&line=61DAFB&point=F8F8F2" alt="Contribution Graph" />
@@ -84,7 +84,7 @@ I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania** 🇹�
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=msonetech1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -92,7 +92,7 @@ I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania** 🇹�
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -106,7 +106,7 @@ I'm a passionate **MERN Stack Developer** from **Dar es Salaam, Tanzania** 🇹�
 
 ---
 
-## 🎯 What I'm Currently Focused On
+## What I'm Currently Focused On
 
 ```javascript
 const currentFocus = {
@@ -119,17 +119,17 @@ const currentFocus = {
 
 ---
 
-## 🤝 How I Contribute to Open Source
+## How I Contribute to Open Source
 
-- 🐛 **Bug Fixes**: Identifying and resolving issues in existing projects
-- 📝 **Documentation**: Writing clear guides and improving README files
-- 🔄 **Code Refactoring**: Enhancing code clarity and maintainability
-- 👥 **Helping Beginners**: Sharing knowledge and guiding newcomers
-- 💡 **Feature Development**: Building new features and improvements
+- **Bug Fixes**: Identifying and resolving issues in existing projects
+- **Documentation**: Writing clear guides and improving README files
+- **Code Refactoring**: Enhancing code clarity and maintainability
+- **Helping Beginners**: Sharing knowledge and guiding newcomers
+- **Feature Development**: Building new features and improvements
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -141,7 +141,7 @@ const currentFocus = {
 
 ---
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
@@ -149,21 +149,21 @@ const currentFocus = {
 
 ---
 
-## 📫 Let's Build Something Amazing Together!
+## Let's Build Something Amazing Together
 
 I'm always open to:
-- 🚀 Collaborating on interesting projects
-- 💬 Discussing JavaScript and web development
-- 📚 Sharing knowledge and learning together
-- 🤝 Contributing to open-source initiatives
+- Collaborating on interesting projects
+- Discussing JavaScript and web development
+- Sharing knowledge and learning together
+- Contributing to open-source initiatives
 
-**Feel free to reach out!** Whether you want to discuss tech, collaborate on a project, or just say hi, I'd love to hear from you. Let's create something awesome! 🎉
+**Feel free to reach out!** Whether you want to discuss tech, collaborate on a project, or just say hi, I'd love to hear from you.
 
 ---
 
 <div align="center">
   
-### ⭐ From [msonetech1](https://github.com/msonetech1) with 💙
+### From [msonetech1](https://github.com/msonetech1)
 
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
